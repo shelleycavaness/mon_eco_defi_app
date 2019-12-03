@@ -5,7 +5,7 @@
 # The Concept ("How Little Things Can Make a Big Difference")
 ## Swift Basics: Apple promo 
 ## Created by Roots : Mohammad, Yolanda, Alexandre, Henri, Shelley
-Our group was given the task to create an App reagarding the environment. Our group decided to create an app to help everyday people take small actions in the hope that small things add up to bigger things. We wanted to motivate and educated individuals on how to change their habits and based our model on positive reinforcement. We imagined that each positive action would give a certain number of points to each individual. We also thought that groups stimulate and help keep up the momentum - so we also wanted individuals to create or join goups. or even join a city group.
+Our group was given the task to create an App regarding the environment. Our group decided to create an app to help everyday people take small actions in the hope that small things add up to bigger things. We wanted to motivate and teach individuals how to change their habits, and we based our model on positive reinforcement. We imagined that each positive action would give  points to each individual player. We also thought that groups stimulate and would help keep up the momentum - so we also wanted individuals to be able create or join goups. 
 
 # Technical Talk
 ## Xcode and Swift
